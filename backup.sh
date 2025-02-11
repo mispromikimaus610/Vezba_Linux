@@ -1,3 +1,5 @@
+#!/bin/bash
+
 mkdir -p backup
 
 TIMESTAMP=$(date +"%Y-%m-%d_%H-%M-%S")
