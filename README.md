@@ -11,7 +11,7 @@ Linux Commands:
 Bash Scripting:
 	Writing and executing Bash scripts (.sh files)
 	Automating backups with cp -r * backup/$(date +"%Y-%m-%d_%H-%M-%S")
-	Using #!/bin/bash as the shebang for scripts
+	Using #!/bin/bash as the shebang for scripts\n
 Linux i Bash komande koje sam prošao
 Linux komande:
 	ls -la – Prikaz svih fajlova i direktorijuma (uključujući skrivene)
